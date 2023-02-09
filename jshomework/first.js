@@ -1,0 +1,16 @@
+let fir = 5;
+let sec = "пять";
+let thr = true;
+let fo = 164684654n;
+let fiv;
+let six = null;
+let sev = {name:"soft"};
+let eigh = new Symbol ("eight");
+console.log(Number(fir), String(fir), Boolean(fir));
+console.log(Number(sec), String(sec), Boolean(sec));
+console.log(Number(thr), String(thr), Boolean(thr));
+console.log(Number(fo), String(fo), Boolean(fo));
+console.log(Number(fiv), String(fiv), Boolean(fiv));
+console.log(Number(six), String(six), Boolean(six));
+console.log(Number(sev), String(sev), Boolean(sev));
+console.log(Number(eigh), String(eigh), Boolean(eigh));
