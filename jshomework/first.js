@@ -1,0 +1,16 @@
+let num = 5;
+let word = "пять";
+let iAmHere = true;
+let cryptoCurrency = 1646842561514654n;
+let unknown;
+let zeroValue = null;
+let sev = {name:"soft"};
+let eigh = new Symbol ("eight");
+console.log(Number(num), String(num), Boolean(num));
+console.log(Number(word), String(word), Boolean(word));
+console.log(Number(iAmHere), String(iAmHere), Boolean(iAmHere));
+console.log(Number(cryptoCurrency), String(cryptoCurrency), Boolean(cryptoCurrency));
+console.log(Number(unknown), String(unknown), Boolean(unknown));
+console.log(Number(zeroValue), String(zeroValue), Boolean(zeroValue));
+console.log(Number(sev), String(sev), Boolean(sev));
+console.log(Number(eigh), String(eigh), Boolean(eigh));
